@@ -3,7 +3,7 @@
 I'm a PhD student majored in `Physics`, jointly cultivated by Hangzhou Institude of Advanced Study(HIAS), University of Chinese Academy of Sciences(UCAS), and Institude of Theoretical Physics(ITP), Chinese Academy of Sciences(CAS). 
 
 ## Education Experience
- - Theoretical Physics,  UACS $\&$ ITP, 2022-Now. 
+ - Theoretical Physics,  UACS & ITP, 2022-Now. 
  - Research Assistant, Research Division of Plasma Physics of Sichuan University, 2021-2022. 
  - Physics, Sichuan University, 2018-2021. 
  - Civil Engnieering, Sichuan University, 2017-2018.
