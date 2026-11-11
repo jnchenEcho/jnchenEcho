@@ -10,7 +10,7 @@ I'm a PhD student majoring in `Physics`, jointly cultivated by Hangzhou Institut
 
 ## About Me
 - ☺️ Research Interest: `Ringdown Physics` of the Black hole.
-- 📃 Publishes:  Jia-Ning Chen(陈佳宁)[https://inspirehep.net/authors/3199329?ui-citation-summary=true]
+- 📃 Publishes:  [Jia-Ning Chen(陈佳宁)](https://inspirehep.net/authors/3199329?ui-citation-summary=true)
 - ❤️ Hobbies: Sports
     - Mountain bike, Hiking, Singing, Ping-Pong ball, Swimming...
 - ⚒️ Program: MATLAB, Python, Mathematica.
