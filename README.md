@@ -1,4 +1,4 @@
-# Hi there， I'm [Jia-Ning Chen](Personal_Curriculum_Vitae_Ch.pdf)👋 
+# Hi there， I'm [Jia-Ning Chen](Jia-Ning_Curriculum_Vitae.pdf)👋 
 
 I'm a PhD student majoring in `Physics`, jointly cultivated by Hangzhou Institute of Advanced Study(HIAS), University of Chinese Academy of Sciences(UCAS), and Institute of Theoretical Physics(ITP), Chinese Academy of Sciences(CAS). 
 
